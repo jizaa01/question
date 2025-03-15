@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <link rel="stylesheet" href="style.css">
     <link href="https://fonts.googleapis.com/css2?family=Indie+flower&display=swap" rel="stylesheet">
-    <title>LETTER</title>
+
 </head>
 <body>
     <div class="container">
